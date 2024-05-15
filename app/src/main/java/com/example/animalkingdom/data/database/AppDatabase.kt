@@ -30,7 +30,7 @@ abstract class AppDatabase: RoomDatabase() {
         private fun buildDatabase(context: Context) = Room.databaseBuilder(
             context.applicationContext,
             AppDatabase::class.java,
-            "assigment-mdp-7-db"
+            "mdp-lab-7-db"
         ).build()
     }
 }
