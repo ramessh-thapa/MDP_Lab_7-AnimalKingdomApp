@@ -1,3 +1,0 @@
-com.example.animalkingdom.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
