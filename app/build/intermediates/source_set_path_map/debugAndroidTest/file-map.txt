@@ -1,0 +1,7 @@
+com.example.animalkingdom.test.app-annotation-experimental-1.3.0-0 C:\Users\rames\.gradle\caches\transforms-3\3d184174956af1f35147198b7e208352\transformed\annotation-experimental-1.3.0\res
+com.example.animalkingdom.test.app-core-1.5.0-1 C:\Users\rames\.gradle\caches\transforms-3\865a3af317b0dc7c4cdea169474ea4f4\transformed\core-1.5.0\res
+com.example.animalkingdom.test.app-androidTest-2 C:\Users\rames\Downloads\miu-mdp-animal-kingdom-app-main\miu-mdp-animal-kingdom-app-main\app\build\generated\res\resValues\androidTest\debug
+com.example.animalkingdom.test.app-androidTest-3 C:\Users\rames\Downloads\miu-mdp-animal-kingdom-app-main\miu-mdp-animal-kingdom-app-main\app\build\generated\res\rs\androidTest\debug
+com.example.animalkingdom.test.app-mergeDebugAndroidTestResources-4 C:\Users\rames\Downloads\miu-mdp-animal-kingdom-app-main\miu-mdp-animal-kingdom-app-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.animalkingdom.test.app-mergeDebugAndroidTestResources-5 C:\Users\rames\Downloads\miu-mdp-animal-kingdom-app-main\miu-mdp-animal-kingdom-app-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.animalkingdom.test.app-merged_res-6 C:\Users\rames\Downloads\miu-mdp-animal-kingdom-app-main\miu-mdp-animal-kingdom-app-main\app\build\intermediates\merged_res\debugAndroidTest

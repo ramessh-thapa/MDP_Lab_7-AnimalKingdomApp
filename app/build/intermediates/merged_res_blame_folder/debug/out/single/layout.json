@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.animalkingdom.app-mergeDebugResources-48:/layout/specie_dialog_fragment.xml",
+        "source": "com.example.animalkingdom.app-main-51:/layout/specie_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\fragment_species_list.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\fragment_species_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\item_animal_layout.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\item_animal_layout.xml"
+    },
+    {
+        "merged": "com.example.animalkingdom.app-mergeDebugResources-48:/layout/animal_item_layout.xml",
+        "source": "com.example.animalkingdom.app-main-51:/layout/animal_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\specie_dialog_fragment.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\specie_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\fragment_animal_details2.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\fragment_animal_details2.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\fragment_species_details2.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\fragment_species_details2.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\animal_dialog_fragment.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\animal_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\item_specie_layout.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\item_specie_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\layout_main.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "com.example.animalkingdom.app-mergeDebugResources-48:/layout/fragment_species_list.xml",
+        "source": "com.example.animalkingdom.app-main-51:/layout/fragment_species_list.xml"
+    },
+    {
+        "merged": "com.example.animalkingdom.app-mergeDebugResources-48:/layout/species_item_layout.xml",
+        "source": "com.example.animalkingdom.app-main-51:/layout/species_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\fragment_animal_list.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\fragment_animal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-mergeDebugResources-48:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\rames\\.gradle\\daemon\\7.5\\com.example.animalkingdom.app-main-51:\\layout\\fragment_dashboard.xml"
+    }
+]
