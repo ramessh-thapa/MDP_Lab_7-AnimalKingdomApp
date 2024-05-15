@@ -56,10 +56,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5580d358-ef62-4a24-868c-d84651b32f79" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/animalkingdom/data/database/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/animalkingdom/data/database/AppDatabase.kt" afterDir="false" />
-    </list>
+    <list default="true" id="5580d358-ef62-4a24-868c-d84651b32f79" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/rames/OneDrive/Desktop/MDP_Assignment/AnimalKingdomApplication/app/src/main/res/drawable"
+    "last_opened_file_path": "C:/Users/rames/Downloads/MDP_Lab_7-AnimalKingdomApp-master (1)/MDP_Lab_7-AnimalKingdomApp-master"
   }
 }]]></component>
   <component name="RecentsManager">
